@@ -4,3 +4,5 @@ List of Requirements
 Flow chart
 
 code
+Design
+Arduino board
