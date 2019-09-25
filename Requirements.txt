@@ -1,8 +1,10 @@
 
 List of Requirements
-
+Project survey
 Flow chart
-
+cables
 code
 Design
 Arduino board
+
+
